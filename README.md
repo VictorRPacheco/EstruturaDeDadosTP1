@@ -2,11 +2,6 @@
 Biblioteca de estrutura de dados em Scala com testes automatizados para a matéria de Técnicas de Programação com o professor Rodrigo Bonifácio da UnB 2018/1
 
 
-## Executando os testes
-
-Colocar aqui as configurações utilizadas
-
-
 ## Feito com
 
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDEA utilizada
@@ -14,7 +9,7 @@ Colocar aqui as configurações utilizadas
 
 ## Versão
 
-* **Intellij** - *0.0.0*
+* **Intellij** - *2018.1.2*
 * **Scala** - *2.12.3*
 * **SBT** - *1.1.1*
 
