@@ -15,14 +15,14 @@ Colocar aqui as configurações utilizadas
 ## Versão
 
 * **Intellij** - *0.0.0*
-* **Scala** - *0.0.0*
-* **SBT** - *0.0.0*
+* **Scala** - *2.12.3*
+* **SBT** - *1.1.1*
 
 ## Autores
 
 * **Rodrigo Bonifácio** - *Projeto base* - [rbonifacio](https://github.com/rbonifacio)
 * **Víctor Rodrigues Pacheco** - *Autor* - [granix3](https://github.com/granix3)
-* **Paulo Victor** - *Autor* - [paulovgf](https://github.com/paulovgf)
+* **Paulo Victor Gonçalves Farias** - *Autor* - [paulovgf](https://github.com/paulovgf)
 
 Veja também a lista de [contributors](https://github.com/granix3/BibliotecaEstruturaDeDadosTP1/graphs/contributors).
 
