@@ -181,7 +181,5 @@ class TestList extends FlatSpec with Matchers with GivenWhenThen with BeforeAndA
     list1.addAll(list3)
 
     list1.size should be (6)
-
-//    l3 = l2 
   }
 }
