@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/pv/Documents/EstruturaDeDadosTP1/src/main/scala/br/unb/cic/ed/mutable/GraphImpl.scala:7:7: class GraphImpl needs to be abstract, since there is a deferred declaration of method size which is not implemented in a subclass[0m
+[0m[[0m[31merror[0m] [0m[0mclass GraphImpl[T] extends Graph[T] {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

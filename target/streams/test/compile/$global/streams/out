@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/pv/Documents/EstruturaDeDadosTP1/src/test/scala/br/unb/cic/ed/mutable/TestGraph.scala:20:9: local variables must be initialized[0m
+[0m[[0m[31merror[0m] [0m[0m    var graph : br.unb.cic.ed.mutable.Graph[Int] = _[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
