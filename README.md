@@ -16,7 +16,7 @@ Biblioteca de estrutura de dados em Scala com testes automatizados para a matér
 ## Autores
 
 * **Rodrigo Bonifácio** - *Projeto base* - [rbonifacio](https://github.com/rbonifacio)
-* **Víctor Rodrigues Pacheco (17/0063879)** - *Autor* - [granix3](https://github.com/granix3)
+* **Víctor Rodrigues Pacheco (17/0063879)** - *Autor* - [VictorRPacheco](https://github.com/VictorRPacheco)
 * **Paulo Victor Gonçalves Farias (13/0144754)** - *Autor* - [paulovgf](https://github.com/paulovgf)
 
 Veja também a lista de [contributors](https://github.com/granix3/BibliotecaEstruturaDeDadosTP1/graphs/contributors).
